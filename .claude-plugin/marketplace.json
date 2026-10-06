@@ -1,0 +1,20 @@
+{
+  "name": "ad-army",
+  "owner": {
+    "name": "Ad Army",
+    "email": "support@ad.army",
+    "url": "https://ad.army"
+  },
+  "metadata": {
+    "description": "Ad Army's plugin for Claude Code, claude.ai, Claude Desktop and Cowork."
+  },
+  "plugins": [
+    {
+      "name": "ad-army",
+      "source": "./",
+      "description": "Connect Claude to your Ad Army workspace to inspect Playground boards and produce product images, video ads, recuts and explainers within a budget you approve.",
+      "category": "creativity",
+      "homepage": "https://ad.army"
+    }
+  ]
+}

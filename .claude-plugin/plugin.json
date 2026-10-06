@@ -1,0 +1,23 @@
+{
+  "name": "ad-army",
+  "displayName": "Ad Army",
+  "version": "1.0.0",
+  "description": "Connect Claude to your Ad Army workspace: find and inspect Playground boards, catalogue creative references, and plan, estimate and produce product images, video ads, recuts and explainers within a budget you approve.",
+  "author": {
+    "name": "Ad Army",
+    "email": "support@ad.army",
+    "url": "https://ad.army"
+  },
+  "homepage": "https://ad.army",
+  "repository": "https://github.com/ad-army/claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "creative",
+    "advertising",
+    "video",
+    "images",
+    "playground",
+    "brand",
+    "mcp"
+  ]
+}
